@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/stsewd/tree-sitter-rst",
-  "semver": false,
-  "lang": "rst",
+  "parser_version": "4e562e1598b95b93db4f3f64fe40ddefbc677a15",
   "location": null,
-  "parser_version": "4e562e1598b95b93db4f3f64fe40ddefbc677a15"
+  "lang": "rst",
+  "url": "https://github.com/stsewd/tree-sitter-rst",
+  "semver": false
 }
